@@ -1,2 +1,2 @@
-# Beautiful-button-HTML-CSS
-Beautiful button made in HTML and CSS.
+# Beautiful-button-HTML
+Beautiful button made in HTML only.
